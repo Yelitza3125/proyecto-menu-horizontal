@@ -29,3 +29,8 @@ a{
     display: block;
     color: #fff;
 }
+
+a:hover {
+    background: #f9a91a;
+    color: #000;
+}
